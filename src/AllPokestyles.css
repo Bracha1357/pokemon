@@ -1,0 +1,14 @@
+.style_color {
+    background-color: rgb(219, 208, 198);
+    text-decoration: none;
+    border: none;
+}
+
+.color_text{
+    color: rgb(190, 179, 169);
+    text-decoration: none;
+}
+
+.style_color:hover{
+    background-color: rgb(163, 154, 145);
+}
